@@ -1,4 +1,11 @@
+<<<<<<< HEAD:_posts/2016-02-26-GettingStartedIoT.md
 
+=======
+---
+layout: post
+title: Create AWS Infrastructure
+---
+>>>>>>> 587ca9659f84cfd3728b0af008b73adfe01ddde3:_posts/2016-02-25-GettingStartedIoT.md
 
 ##Create AWS Infrastructure
 
